@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- padrao android studio -->
+    <!-- padrao android studio
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    -->
 
+    <color name="colorPrimary">#393d46</color>
+    <color name="colorPrimaryDark">#2a2e33</color>
+    <color name="colorAccent">#22b573</color>
 
     <color name="colorMainButton">#2c3135</color>
     <color name="colorAlternateButton">#3b4851</color>
     <color name="colorBackGround">#393d46</color>
     <color name="colorCardView">#484d54</color>
     <color name="colorPatternCircle">#22b573</color>
+    <color name="colorWhite">#ffffff</color>
 
 </resources>

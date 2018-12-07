@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">EhMoto</string>
+
+    <string name="receber">Receber</string>
+    <string name="depositar">Depositar</string>
+    <string name="ganhos_do_dia">Ganhos</string>
+    <string name="historico">Historico</string>
+    <string name="relatorio">Relatorio</string>
+    <string name="configuracoes">Settings</string>
+
+    <string name="tudo_q_v_precisa">Tudo que você precisa!</string>
+    <string name="esquedi_a_senha">Esqueci a senha</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+
 </resources>
