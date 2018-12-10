@@ -189,7 +189,7 @@
         app:cardBackgroundColor="@color/colorAlternateButton"
         android:clickable="true"
         android:focusable="true"
-        android:onClick="onClickBtCarView">
+        android:onClick="onClickBtCardView">
 
         <TextView
             android:layout_marginRight="32dp"
@@ -205,7 +205,7 @@
 
     <!--Login-->
     <android.support.v7.widget.CardView
-        android:id="@+id/login_bt_cardview_criar_login"
+        android:id="@+id/login_bt_cardview_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="32dp"
@@ -217,7 +217,7 @@
         app:cardBackgroundColor="@color/colorMainButton"
         android:clickable="true"
         android:focusable="true"
-        android:onClick="onClickBtCarView">
+        android:onClick="onClickBtCardView">
         <TextView
             android:layout_marginRight="32dp"
             android:layout_marginLeft="32dp"

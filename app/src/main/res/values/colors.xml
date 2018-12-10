@@ -17,5 +17,6 @@
     <color name="colorCardView">#484d54</color>
     <color name="colorPatternCircle">#22b573</color>
     <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
 
 </resources>

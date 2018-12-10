@@ -35,15 +35,20 @@ public class LoginActivity extends AppCompatActivity {
         checkPreferences();
     }
 
-    public void onClickBtCarView(View view){
+    public void onClickBtCardView(View view){
 
         int id = view.getId();
         if(id == R.id.login_bt_cardview_criar_conta){               // criar conta
+
+            Intent intent = new Intent(LoginActivity.this,RegisterUserPersonalDataActivity.class);
+            startActivity(intent);
+            /*
             Snackbar snackbar = Snackbar
                     .make(view,"Funcao indisponivel",Snackbar.LENGTH_LONG);
             snackbar.show();
+            */
 
-        } else if (id == R.id.login_bt_cardview_criar_login){       // criar login
+        } else if (id == R.id.login_bt_cardview_login){       // login
             Log.i("INFO","clicked login");
 
             // validar dados
